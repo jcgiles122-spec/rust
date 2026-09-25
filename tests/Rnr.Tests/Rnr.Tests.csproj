@@ -1,1 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType></PropertyGroup><ItemGroup><ProjectReference Include="../../src/Rnr.Core/Rnr.Core.csproj" /><ProjectReference Include="../../src/Rnr.Companion/Rnr.Companion.csproj" /></ItemGroup></Project>
