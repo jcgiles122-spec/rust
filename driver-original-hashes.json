@@ -1,0 +1,22 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "E9EF78F26EA364FFFB3BB052F875E17DEA8917F3B1499DC535186E19F08C5399",
+    "Path": "C:\\Users\\jcgil\\Downloads\\PersonalSyntheticMouseDriver\\Driver\\driver.c"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "C6072FDC34A5C65D12CDA6B932C9A62D6DF5F730AE2298E93D965477CB0220F8",
+    "Path": "C:\\Users\\jcgil\\Downloads\\PersonalSyntheticMouseDriver\\Driver\\PersonalSyntheticMouse.inf"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "BA3C0D902879409624B50CC3EE482CF3043493958966D20DE92AEB53A9528388",
+    "Path": "C:\\Users\\jcgil\\Downloads\\PersonalSyntheticMouseDriver\\Driver\\PersonalSyntheticMouse.vcxproj"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "98DCC2F400A0DB509EFDEC4E6B4CA8CEFC5505F7C40332AC8E87180C2D43DA8A",
+    "Path": "C:\\Users\\jcgil\\Downloads\\PersonalSyntheticMouseDriver\\Driver\\public.h"
+  }
+]
